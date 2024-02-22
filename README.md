@@ -53,7 +53,7 @@
 
 ## ✏ Skills of interest
 <div>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff" readonly>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=fff">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=fff">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=fff">
