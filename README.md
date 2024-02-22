@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimohLee&show_icons=true&theme=github_dark_dimmed&count_private=true&include_all_commits=true)
 
 
-## My Blog
+## 💾 My Blog
 <a href="https://nimoh.tistory.com" target="_blank"><img src="https://img.shields.io/badge/BLOG-FFF?style=flat&logo=Tistory&logoColor=000"/></a>
 <br>
 <br>
