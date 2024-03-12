@@ -10,7 +10,6 @@
 <a href="https://nimoh.tistory.com" target="_blank"><img src="https://img.shields.io/badge/BLOG-FFF?style=flat&logo=Tistory&logoColor=000"/></a>
 <br>
 <br>
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=nimoh&theme=default)](https://nimoh.tistory.com)
 
 ## 📞Contact
 <div style="display:flex; flex-direction:row;">
