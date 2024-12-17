@@ -1,13 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Welcome%20to%20nimohLee's%20GitHub&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Welcome%20to%20leoh's%20GitHub&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 ## Hi There!👋
-<h4>I'm nimohLee a backend engineer.</h4>
+<h4>I'm leoh a backend engineer.</h4>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimohLee&show_icons=true&theme=github_dark_dimmed&count_private=true&include_all_commits=true)
 
 
 ## 💾 My Blog
-<a href="https://nimoh.tistory.com" target="_blank"><img src="https://img.shields.io/badge/BLOG-FFF?style=flat&logo=Tistory&logoColor=000"/></a>
+<a href="https://blog.devleoh.com" target="_blank"><img src="https://img.shields.io/badge/BLOG-FFF?style=flat&logoColor=000"/></a>
 <br>
 <br>
 
